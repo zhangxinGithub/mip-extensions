@@ -1,0 +1,8 @@
+{
+  "name": "mip-TML",
+  "version": "1.0.0",
+  "description": "boss statistical",
+  "engines": {
+    "mip": ">=1.1.0"
+  }
+}
